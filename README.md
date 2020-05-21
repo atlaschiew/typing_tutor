@@ -12,7 +12,7 @@ gcc -o executable main.c -lncurses -lpthread
 
 To use it, please follow instruction on screen.
 <p>
-<img src="https://github.madxradicle.com/typing_tutor/howto.png">
+<img src="https://github.madxradicle.com/typing_tutor/howto.PNG">
 </p>
 
 ## My Second C Program
